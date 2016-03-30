@@ -261,6 +261,9 @@ class ViewController: UIViewController {
     
     @IBAction func suspendCurrentOperation(sender: AnyObject) {
         
+//        AWSRequest
+//        (currentRequest as! AWSS3TransferManagerUploadRequest)
+        
     }
     
 }
